@@ -3,8 +3,7 @@ ME RESOLUSI
 - Belajar Front End
 - Lanjut belajar Network
 - Lanjut belajar Cyber Security
-- Belajar bahasa Arduino dan project
-- Murojaah bahasa C
+- Murojaah bahasa C dan project
 - Lanjut belajar Beck end
 - Murojaah Fundamental JAVA
 - Membuat project
