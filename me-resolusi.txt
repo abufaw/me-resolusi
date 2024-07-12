@@ -7,3 +7,4 @@ ME RESOLUSI
 - Murojaah bahasa C
 - Lanjut belajar Beck end
 - Murojaah Fundamental JAVA
+- Membuat project
